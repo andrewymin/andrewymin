@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Full stack Weather API Site](https://github.com/andrewymin/Fullstack-WeatherNow)
 
-- 🌱 I’m currently learning **Unreal engine 5**
+- 🌱 I’m currently learning **more and more web development with a little bit of Unreal engine 5**
 
 - 💬 Ask me about **Food since I love food**
 
