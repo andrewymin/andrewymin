@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew Min</h1>
 <h3 align="center">A passionate full stack web developer from Colorado!</h3>
 
-- 🔭 I’m currently working on [Full stack Weather API Site](https://github.com/andrewymin/Fullstack-WeatherNow)
+- 🔭 I’m currently working on a variety of programs.
 
 - 🌱 I’m currently learning **more and more web development with a little bit of Unreal engine 5**
 
