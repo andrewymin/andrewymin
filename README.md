@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrew Min</h1>
 <h3 align="center">A passionate full stack web developer from Colorado!</h3>
 
-- 🔭 I’m currently working on a variety of programs.
+- 🔭 I’m currently working on a variety of programs. Whether that be websites, apps, or browser extensions.
 
-- 🌱 I’m currently learning **more and more web development with a little bit of Unreal engine 5**
+- 🌱 I’m currently learning **more and more web development**
 
-- 💬 Ask me about **Food since I love food**
+- 💬 Ask me about **Fishing or gaming.**
 
-- ⚡ Fun fact **I love gaming when I can.**
+- ⚡ Fun fact **I love working out and gaming here and there.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
